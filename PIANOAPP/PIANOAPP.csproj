@@ -1,0 +1,63 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\background.jpg.png" />
+    <None Remove="Images\chorus.jpg" />
+    <None Remove="Images\chorus2" />
+    <None Remove="Images\correct.jpg" />
+    <None Remove="Images\correct.png" />
+    <None Remove="Images\correct2.png" />
+    <None Remove="Images\keyboard.jpg" />
+    <None Remove="Images\nuts.jpg" />
+    <None Remove="Images\repeat.png" />
+    <None Remove="Images\repeat.webp" />
+    <None Remove="Images\sound.png" />
+    <None Remove="Images\spread.png" />
+    <None Remove="Images\twinky.png" />
+    <None Remove="Images\violin.jpg" />
+    <None Remove="Images\violin.png" />
+    <None Remove="Images\waterfall.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\chorus.jpg" />
+    <Resource Include="Images\chorus2" />
+    <Resource Include="Images\correct.jpg" />
+    <Resource Include="Images\correct.png" />
+    <Resource Include="Images\correct2.png" />
+    <Resource Include="Images\nuts.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MathNet.Numerics" Version="5.0.0" />
+    <PackageReference Include="Microsoft.CognitiveServices.Speech" Version="1.48.2" />
+    <PackageReference Include="NAudio" Version="2.2.1" />
+    <PackageReference Include="System.Speech" Version="10.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Nowy folder\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\background.jpg.png" />
+    <Resource Include="Images\keyboard.jpg" />
+    <Resource Include="Images\repeat.png" />
+    <Resource Include="Images\repeat.webp" />
+    <Resource Include="Images\sound.png" />
+    <Resource Include="Images\spread.png" />
+    <Resource Include="Images\twinky.png" />
+    <Resource Include="Images\violin.jpg" />
+    <Resource Include="Images\violin.png" />
+    <Resource Include="Images\waterfall.jpg" />
+  </ItemGroup>
+
+</Project>
