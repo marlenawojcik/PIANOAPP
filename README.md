@@ -36,7 +36,6 @@ Aplikacja wykorzystuje syntezę MIDI do generowania dźwięku, co pozwala na zmi
 
 ## Zrzuty ekranu
 
-*(Poniższe zrzuty ekranu należy umieścić w katalogu `doc/assets/screenshots/`)*
 
 | Widok głównego menu | Widok klawiatury z pięciolinią |
 | :-----------------: | :----------------------------: |

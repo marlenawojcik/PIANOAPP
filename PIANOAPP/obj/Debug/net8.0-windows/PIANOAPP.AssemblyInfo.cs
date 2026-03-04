@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PIANOAPP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc8be6a581045d0fd3f9fd4b8cd4b634ebddabd9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67570c3554bd43518d9a781b189d65ff3940a08b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PIANOAPP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PIANOAPP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

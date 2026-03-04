@@ -26,12 +26,12 @@ namespace PIANOAPP
 
 
 
-            using (SpeechSynthesizer synth = new SpeechSynthesizer())
-            {
-                synth.SetOutputToDefaultAudioDevice();  // Ustawienie domyślnego urządzenia audio
-                synth.SelectVoice("Microsoft Paulina Desktop");    // Wybór głosu (np. Microsoft Zira lub David)
-                synth.Speak(info);                      // Odtworzenie wiersza
-            }
+            // using (SpeechSynthesizer synth = new SpeechSynthesizer())
+            // {
+            //     synth.SetOutputToDefaultAudioDevice();  // Ustawienie domyślnego urządzenia audio
+            //     synth.SelectVoice("Microsoft Paulina Desktop");    // Wybór głosu (np. Microsoft Zira lub David)
+            //     synth.Speak(info);                      // Odtworzenie wiersza
+            // }
 
         }
         private void OnKeyboardButtonClick(object sender, RoutedEventArgs e)
