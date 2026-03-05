@@ -8,9 +8,6 @@ PIANOAPP to aplikacja desktopowa stworzona w technologii WPF (C#), która łącz
 - [Kluczowe funkcje](#kluczowe-funkcje)
 - [Zrzuty ekranu](#zrzuty-ekranu)
 - [Szybki start](#szybki-start)
-- [Architektura modułów](#architektura-modułów)
-- [Dokumentacja](#dokumentacja)
-- [Zespół projektowy](#zespół-projektowy)
 
 ## Opis projektu
 
